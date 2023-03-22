@@ -14,7 +14,7 @@ advisor : `황산하`
 - 지난주 meeting에서 나온 문제 풀이
  
 # History
-- 2023/03/22
+- 2023/03/21
   - 발표내용
     - 지민 : 2.5 Tracking a Nonstationary Problem
     - 재원 : 2.6 Optimistic Initial Values ~ 2.7 Upper-Conﬁdence-Bound Action Selection
