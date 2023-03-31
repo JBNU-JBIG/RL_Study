@@ -22,3 +22,14 @@ advisor : `황산하`
     - 승규 : 2.9 Associative Search (Contextual Bandits)
   - 특이사항
     - pseudo code구현 난이도가 쉽지 않았음. 기간 연장
+- 2023/03/31
+  - 발표내용
+    - 호연 : 3.1 The Agent-Environment Interface
+    - 승규 : 3.2 Goals and Rewards
+    - 지민 : 3.3 Returns and Episodes
+    - 재원 : 3.4 Unified Notation for Episodic and Continuing Tasks
+  - 특이사항
+    - 부득이한 사정으로 화 => 금 진행
+    - pseudo code구현 난이도가 쉽지 않았음. 기간 연장
+
+
